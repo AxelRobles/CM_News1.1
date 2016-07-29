@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CM_News1.1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_notice">SingleNotice</string>
+    <string name="title_activity_secciones">Secciones</string>
+    <string name="drawer_open">open drawer menu</string>
+    <string name="drawer_close">close menu</string>
+
+    <string name="title_activity_splash_screen">Splash_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_video_you_tube">VideoYouTube</string>
+</resources>
